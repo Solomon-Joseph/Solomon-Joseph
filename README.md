@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Solomon-Joseph
 - 👀 I’m interested in Robotics & Innovation
 - 🌱 I’m currently learning AI ML Robotics
-- 💞️ I’m looking to collaborate on innovation product design
+- 💞️ I’m looking to collaborate on innovative product design
 - 📫 How to reach me +91 9866839004
 
 <!---
